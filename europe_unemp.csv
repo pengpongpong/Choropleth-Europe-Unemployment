@@ -1,0 +1,47 @@
+country,code,rate
+Faroe Islands,FRO,1
+Liechtenstein,LIE,1.9
+Switzerland,CHE,2
+Moldova,MDA,2.4
+Denmark,DNK,2.7
+Malta,MLT,2.9
+Norway,NOR,3.3
+Czech Republic,CZE,3.4
+Hungary,HUN,3.4
+United Kingdom,GBR,3.6
+Netherlands,NLD,3.8
+Belarus,BLR,3.9
+Russia,RUS,3.9
+Bulgaria,BGR,4.2
+Ireland,IRL,4.3
+Iceland,ISL,4.5
+Luxembourg,LUX,4.8
+Poland,POL,4.8
+Romania,ROU,5.2
+Germany,DEU,5.5
+Slovenia,SVN,5.6
+Portugal,PRT,5.7
+Estonia,EST,5.8
+Austria,AUT,5.9
+Belgium,BEL,5.9
+European Union,,6
+Slovakia,SVK,6.1
+Croatia,HRV,6.3
+Euro Area,,6.6
+Latvia,LVA,6.6
+Sweden,SWE,6.6
+Finland,FIN,6.7
+France,FRA,7.4
+Italy,ITA,7.9
+Cyprus,CYP,8
+Lithuania,LTU,8.6
+Serbia,SRB,8.9
+Turkey,TUR,10.1
+Ukraine,UKR,10.6
+Albania,ALB,11.1
+Spain,ESP,12.48
+Greece,GRC,12.6
+Macedonia,MKD,14.5
+Montenegro,MNE,19.16
+Kosovo,KOS,20.5
+Bosnia and Herzegovina,BIH,29.99
